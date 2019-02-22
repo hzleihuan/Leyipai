@@ -1,0 +1,15 @@
+F:\VS\Leyipai\Leyipai.Common\obj\Debug\ResolveAssemblyReference.cache
+F:\VS\Leyipai\Leyipai.Common\bin\Debug\Leyipai.Common.dll
+F:\VS\Leyipai\Leyipai.Common\bin\Debug\Leyipai.Common.pdb
+F:\VS\Leyipai\Leyipai.Common\obj\Debug\Leyipai.Common.dll
+F:\VS\Leyipai\Leyipai.Common\obj\Debug\Leyipai.Common.pdb
+F:\test\test\Leyipai\Leyipai.Common\bin\Debug\Leyipai.Common.dll
+F:\test\test\Leyipai\Leyipai.Common\bin\Debug\Leyipai.Common.pdb
+F:\test\test\Leyipai\Leyipai.Common\obj\Debug\ResolveAssemblyReference.cache
+F:\test\test\Leyipai\Leyipai.Common\obj\Debug\Leyipai.Common.dll
+F:\test\test\Leyipai\Leyipai.Common\obj\Debug\Leyipai.Common.pdb
+E:\项目\未分类\Leyipai-1.2\Leyipai.Common\bin\Debug\Leyipai.Common.dll
+E:\项目\未分类\Leyipai-1.2\Leyipai.Common\bin\Debug\Leyipai.Common.pdb
+E:\项目\未分类\Leyipai-1.2\Leyipai.Common\obj\Debug\ResolveAssemblyReference.cache
+E:\项目\未分类\Leyipai-1.2\Leyipai.Common\obj\Debug\Leyipai.Common.dll
+E:\项目\未分类\Leyipai-1.2\Leyipai.Common\obj\Debug\Leyipai.Common.pdb

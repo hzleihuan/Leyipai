@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Leyipai">
+</Property><Property Name="解决方案文件" Value="C:\Users\Administrator\Desktop\leyipai12\Leyipai.sln">
+</Property><Property Name="用户选项文件" Value="C:\Users\Administrator\Desktop\leyipai12\Leyipai.suo">
+</Property><Property Name="Date" Value="2013年7月30日">
+</Property><Property Name="Time" Value="10:30">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Leyipai.sln" Description="文件已成功备份为 C:\Users\Administrator\Desktop\leyipai12\Backup\Leyipai.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Leyipai.suo" Description="文件已成功备份为 C:\Users\Administrator\Desktop\leyipai12\Backup\Leyipai.suo">
+</Event><Event ErrorLevel="0" Project="Leyipai.Model" Source="Leyipai.Model\Leyipai.Model.csproj" Description="项目文件已成功备份为 C:\Users\Administrator\Desktop\leyipai12\Backup\Leyipai.Model\Leyipai.Model.csproj">
+</Event><Event ErrorLevel="0" Project="Leyipai.Model" Source="Leyipai.Model\accountant_period.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\leyipai12\Backup\Leyipai.Model\accountant_period.cs">
+</Event><Event ErrorLevel="0" Project="Leyipai.Model" Source="Leyipai.Model\backup_database.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\leyipai12\Backup\Leyipai.Model\backup_database.cs">
+</Event><Event ErrorLevel="0" Project="Leyipai.Model" Source="Leyipai.Model\Class1.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\leyipai12\Backup\Leyipai.Model\Class1.cs">
+</Event><Event ErrorLevel="0" Project="Leyipai.Model" Source="Leyipai.Model\c_area.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\leyipai12\Backup\Leyipai.Model\c_area.cs">
+</Event><Event ErrorLevel="0" Project="Leyipai.Model" Source="Leyipai.Model\c_customer.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\leyipai12\Backup\Leyipai.Model\c_customer.cs">
+</Event><Event ErrorLevel="0" Project="Leyipai.Model" Source="Leyipai.Model\c_depot.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\leyipai12\Backup\Leyipai.Model\c_depot.cs">
+</Event><Event ErrorLevel="0" Project="Leyipai.Model" Source="Leyipai.Model\c_logistics.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\leyipai12\Backup\Leyipai.Model\c_logistics.cs">
+</Event><Event ErrorLevel="0" Project="Leyipai.Model" Source="Leyipai.Model\depot_products.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\leyipai12\Backup\Leyipai.Model\depot_products.cs">
+</Event><Event ErrorLevel="0" Project="Leyipai.Model" Source="Leyipai.Model\MenuNode.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\leyipai12\Backup\Leyipai.Model\MenuNode.cs">
+</Event><Event ErrorLevel="0" Project="Leyipai.Model" Source="Leyipai.Model\order_detail.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\leyipai12\Backup\Leyipai.Model\order_detail.cs">
+</Event><Event ErrorLevel="0" Project="Leyipai.Model" Source="Leyipai.Model\products.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\leyipai12\Backup\Leyipai.Model\products.cs">
+</Event><Event ErrorLevel="0" Project="Leyipai.Model" Source="Leyipai.Model\products_brand.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\leyipai12\Backup\Leyipai.Model\products_brand.cs">
+</Event><Event ErrorLevel="0" Project="Leyipai.Model" Source="Leyipai.Model\products_type.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\leyipai12\Backup\Leyipai.Model\products_type.cs">
+</Event><Event ErrorLevel="0" Project="Leyipai.Model" Source="Leyipai.Model\Properties\AssemblyInfo.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\leyipai12\Backup\Leyipai.Model\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Leyipai.Model" Source="Leyipai.Model\sales_order.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\leyipai12\Backup\Leyipai.Model\sales_order.cs">
+</Event><Event ErrorLevel="0" Project="Leyipai.Model" Source="Leyipai.Model\SessionUser.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\leyipai12\Backup\Leyipai.Model\SessionUser.cs">
+</Event><Event ErrorLevel="0" Project="Leyipai.Model" Source="Leyipai.Model\stocktaking.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\leyipai12\Backup\Leyipai.Model\stocktaking.cs">
+</Event><Event ErrorLevel="0" Project="Leyipai.Model" Source="Leyipai.Model\stocktaking_detail.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\leyipai12\Backup\Leyipai.Model\stocktaking_detail.cs">
+</Event><Event ErrorLevel="0" Project="Leyipai.Model" Source="Leyipai.Model\sys_ resource.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\leyipai12\Backup\Leyipai.Model\sys_ resource.cs">
+</Event><Event ErrorLevel="0" Project="Leyipai.Model" Source="Leyipai.Model\sys_log.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\leyipai12\Backup\Leyipai.Model\sys_log.cs">
+</Event><Event ErrorLevel="0" Project="Leyipai.Model" Source="Leyipai.Model\sys_rose.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\leyipai12\Backup\Leyipai.Model\sys_rose.cs">
+</Event><Event ErrorLevel="0" Project="Leyipai.Model" Source="Leyipai.Model\sys_rose_ resource.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\leyipai12\Backup\Leyipai.Model\sys_rose_ resource.cs">
+</Event><Event ErrorLevel="0" Project="Leyipai.Model" Source="Leyipai.Model\sys_user.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\leyipai12\Backup\Leyipai.Model\sys_user.cs">
+</Event><Event ErrorLevel="1" Project="Leyipai.Model" Source="Leyipai.Model\Leyipai.Model.csproj" Description="您的项目以 .NET Framework 2.0 或 3.0 为目标。如果您的项目使用的程序集需要更新的 .NET Framework，则项目生成将失败。通过单击项目菜单上的“属性”，然后在“.NET Framework”下拉框中选择一个新版本，可以更改 .NET Framework 的版本。(在 Visual Basic 中，可在单击“高级编辑器选项...”按钮时显示的“编译”选项卡上找到此下拉框。)">
+</Event><Event ErrorLevel="0" Project="Leyipai.Model" Source="Leyipai.Model\Leyipai.Model.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="Leyipai.Model" Source="Leyipai.Model\Leyipai.Model.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Leyipai.DBUtility" Source="Leyipai.DBUtility\Leyipai.DBUtility.csproj" Description="项目文件已成功备份为 C:\Users\Administrator\Desktop\leyipai12\Backup\Leyipai.DBUtility\Leyipai.DBUtility.csproj">
+</Event><Event ErrorLevel="0" Project="Leyipai.DBUtility" Source="Leyipai.DBUtility\Class1.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\leyipai12\Backup\Leyipai.DBUtility\Class1.cs">
+</Event><Event ErrorLevel="0" Project="Leyipai.DBUtility" Source="Leyipai.DBUtility\CommandInfo.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\leyipai12\Backup\Leyipai.DBUtility\CommandInfo.cs">
+</Event><Event ErrorLevel="0" Project="Leyipai.DBUtility" Source="Leyipai.DBUtility\DbHelperSQL.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\leyipai12\Backup\Leyipai.DBUtility\DbHelperSQL.cs">
+</Event><Event ErrorLevel="0" Project="Leyipai.DBUtility" Source="Leyipai.DBUtility\DESEncrypt.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\leyipai12\Backup\Leyipai.DBUtility\DESEncrypt.cs">
+</Event><Event ErrorLevel="0" Project="Leyipai.DBUtility" Source="Leyipai.DBUtility\Properties\AssemblyInfo.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\leyipai12\Backup\Leyipai.DBUtility\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Leyipai.DBUtility" Source="Leyipai.DBUtility\PubConstant.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\leyipai12\Backup\Leyipai.DBUtility\PubConstant.cs">
+</Event><Event ErrorLevel="1" Project="Leyipai.DBUtility" Source="Leyipai.DBUtility\Leyipai.DBUtility.csproj" Description="您的项目以 .NET Framework 2.0 或 3.0 为目标。如果您的项目使用的程序集需要更新的 .NET Framework，则项目生成将失败。通过单击项目菜单上的“属性”，然后在“.NET Framework”下拉框中选择一个新版本，可以更改 .NET Framework 的版本。(在 Visual Basic 中，可在单击“高级编辑器选项...”按钮时显示的“编译”选项卡上找到此下拉框。)">
+</Event><Event ErrorLevel="0" Project="Leyipai.DBUtility" Source="Leyipai.DBUtility\Leyipai.DBUtility.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="Leyipai.DBUtility" Source="Leyipai.DBUtility\Leyipai.DBUtility.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Leyipai.DAL" Source="Leyipai.DAL\Leyipai.DAL.csproj" Description="项目文件已成功备份为 C:\Users\Administrator\Desktop\leyipai12\Backup\Leyipai.DAL\Leyipai.DAL.csproj">
+</Event><Event ErrorLevel="0" Project="Leyipai.DAL" Source="Leyipai.DAL\accountant\AccountantPeriodDAL.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\leyipai12\Backup\Leyipai.DAL\accountant\AccountantPeriodDAL.cs">
+</Event><Event ErrorLevel="0" Project="Leyipai.DAL" Source="Leyipai.DAL\Class1.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\leyipai12\Backup\Leyipai.DAL\Class1.cs">
+</Event><Event ErrorLevel="0" Project="Leyipai.DAL" Source="Leyipai.DAL\c\areaDAL.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\leyipai12\Backup\Leyipai.DAL\c\areaDAL.cs">
+</Event><Event ErrorLevel="0" Project="Leyipai.DAL" Source="Leyipai.DAL\c\CustomerDAL.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\leyipai12\Backup\Leyipai.DAL\c\CustomerDAL.cs">
+</Event><Event ErrorLevel="0" Project="Leyipai.DAL" Source="Leyipai.DAL\c\DepotDAL.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\leyipai12\Backup\Leyipai.DAL\c\DepotDAL.cs">
+</Event><Event ErrorLevel="0" Project="Leyipai.DAL" Source="Leyipai.DAL\c\LogisticsDAL.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\leyipai12\Backup\Leyipai.DAL\c\LogisticsDAL.cs">
+</Event><Event ErrorLevel="0" Project="Leyipai.DAL" Source="Leyipai.DAL\DepotProductsDAL.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\leyipai12\Backup\Leyipai.DAL\DepotProductsDAL.cs">
+</Event><Event ErrorLevel="0" Project="Leyipai.DAL" Source="Leyipai.DAL\OrderDetailDAL.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\leyipai12\Backup\Leyipai.DAL\OrderDetailDAL.cs">
+</Event><Event ErrorLevel="0" Project="Leyipai.DAL" Source="Leyipai.DAL\products\ProductsBrandDAL.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\leyipai12\Backup\Leyipai.DAL\products\ProductsBrandDAL.cs">
+</Event><Event ErrorLevel="0" Project="Leyipai.DAL" Source="Leyipai.DAL\products\ProductsDAL.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\leyipai12\Backup\Leyipai.DAL\products\ProductsDAL.cs">
+</Event><Event ErrorLevel="0" Project="Leyipai.DAL" Source="Leyipai.DAL\products\ProductsTypeDAL.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\leyipai12\Backup\Leyipai.DAL\products\ProductsTypeDAL.cs">
+</Event><Event ErrorLevel="0" Project="Leyipai.DAL" Source="Leyipai.DAL\Properties\AssemblyInfo.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\leyipai12\Backup\Leyipai.DAL\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Leyipai.DAL" Source="Leyipai.DAL\Sales_orderDAL.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\leyipai12\Backup\Leyipai.DAL\Sales_orderDAL.cs">
+</Event><Event ErrorLevel="0" Project="Leyipai.DAL" Source="Leyipai.DAL\StocktakingDAL.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\leyipai12\Backup\Leyipai.DAL\StocktakingDAL.cs">
+</Event><Event ErrorLevel="0" Project="Leyipai.DAL" Source="Leyipai.DAL\StocktakingDetailDAL.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\leyipai12\Backup\Leyipai.DAL\StocktakingDetailDAL.cs">
+</Event><Event ErrorLevel="0" Project="Leyipai.DAL" Source="Leyipai.DAL\SysBackupDatabaseDAL.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\leyipai12\Backup\Leyipai.DAL\SysBackupDatabaseDAL.cs">
+</Event><Event ErrorLevel="0" Project="Leyipai.DAL" Source="Leyipai.DAL\SysLogDAL.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\leyipai12\Backup\Leyipai.DAL\SysLogDAL.cs">
+</Event><Event ErrorLevel="0" Project="Leyipai.DAL" Source="Leyipai.DAL\SysRoseDAL.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\leyipai12\Backup\Leyipai.DAL\SysRoseDAL.cs">
+</Event><Event ErrorLevel="0" Project="Leyipai.DAL" Source="Leyipai.DAL\SysUserDAL.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\leyipai12\Backup\Leyipai.DAL\SysUserDAL.cs">
+</Event><Event ErrorLevel="1" Project="Leyipai.DAL" Source="Leyipai.DAL\Leyipai.DAL.csproj" Description="您的项目以 .NET Framework 2.0 或 3.0 为目标。如果您的项目使用的程序集需要更新的 .NET Framework，则项目生成将失败。通过单击项目菜单上的“属性”，然后在“.NET Framework”下拉框中选择一个新版本，可以更改 .NET Framework 的版本。(在 Visual Basic 中，可在单击“高级编辑器选项...”按钮时显示的“编译”选项卡上找到此下拉框。)">
+</Event><Event ErrorLevel="0" Project="Leyipai.DAL" Source="Leyipai.DAL\Leyipai.DAL.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="Leyipai.DAL" Source="Leyipai.DAL\Leyipai.DAL.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Leyipai.Common" Source="Leyipai.Common\Leyipai.Common.csproj" Description="项目文件已成功备份为 C:\Users\Administrator\Desktop\leyipai12\Backup\Leyipai.Common\Leyipai.Common.csproj">
+</Event><Event ErrorLevel="0" Project="Leyipai.Common" Source="Leyipai.Common\Assistant.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\leyipai12\Backup\Leyipai.Common\Assistant.cs">
+</Event><Event ErrorLevel="0" Project="Leyipai.Common" Source="Leyipai.Common\Class1.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\leyipai12\Backup\Leyipai.Common\Class1.cs">
+</Event><Event ErrorLevel="0" Project="Leyipai.Common" Source="Leyipai.Common\CollectionPager.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\leyipai12\Backup\Leyipai.Common\CollectionPager.cs">
+</Event><Event ErrorLevel="0" Project="Leyipai.Common" Source="Leyipai.Common\ConfigHelper.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\leyipai12\Backup\Leyipai.Common\ConfigHelper.cs">
+</Event><Event ErrorLevel="0" Project="Leyipai.Common" Source="Leyipai.Common\DataCache.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\leyipai12\Backup\Leyipai.Common\DataCache.cs">
+</Event><Event ErrorLevel="0" Project="Leyipai.Common" Source="Leyipai.Common\HttpProc.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\leyipai12\Backup\Leyipai.Common\HttpProc.cs">
+</Event><Event ErrorLevel="0" Project="Leyipai.Common" Source="Leyipai.Common\Jscript.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\leyipai12\Backup\Leyipai.Common\Jscript.cs">
+</Event><Event ErrorLevel="0" Project="Leyipai.Common" Source="Leyipai.Common\MessageBox.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\leyipai12\Backup\Leyipai.Common\MessageBox.cs">
+</Event><Event ErrorLevel="0" Project="Leyipai.Common" Source="Leyipai.Common\MoneyToChinaString.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\leyipai12\Backup\Leyipai.Common\MoneyToChinaString.cs">
+</Event><Event ErrorLevel="0" Project="Leyipai.Common" Source="Leyipai.Common\MyRandom.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\leyipai12\Backup\Leyipai.Common\MyRandom.cs">
+</Event><Event ErrorLevel="0" Project="Leyipai.Common" Source="Leyipai.Common\Page.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\leyipai12\Backup\Leyipai.Common\Page.cs">
+</Event><Event ErrorLevel="0" Project="Leyipai.Common" Source="Leyipai.Common\PageBase.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\leyipai12\Backup\Leyipai.Common\PageBase.cs">
+</Event><Event ErrorLevel="0" Project="Leyipai.Common" Source="Leyipai.Common\PageList.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\leyipai12\Backup\Leyipai.Common\PageList.cs">
+</Event><Event ErrorLevel="0" Project="Leyipai.Common" Source="Leyipai.Common\PageSuccess.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\leyipai12\Backup\Leyipai.Common\PageSuccess.cs">
+</Event><Event ErrorLevel="0" Project="Leyipai.Common" Source="Leyipai.Common\PageValidate.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\leyipai12\Backup\Leyipai.Common\PageValidate.cs">
+</Event><Event ErrorLevel="0" Project="Leyipai.Common" Source="Leyipai.Common\Properties\AssemblyInfo.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\leyipai12\Backup\Leyipai.Common\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Leyipai.Common" Source="Leyipai.Common\RMB.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\leyipai12\Backup\Leyipai.Common\RMB.cs">
+</Event><Event ErrorLevel="0" Project="Leyipai.Common" Source="Leyipai.Common\StringPlus.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\leyipai12\Backup\Leyipai.Common\StringPlus.cs">
+</Event><Event ErrorLevel="0" Project="Leyipai.Common" Source="Leyipai.Common\TimeParser.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\leyipai12\Backup\Leyipai.Common\TimeParser.cs">
+</Event><Event ErrorLevel="0" Project="Leyipai.Common" Source="Leyipai.Common\UrlOper.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\leyipai12\Backup\Leyipai.Common\UrlOper.cs">
+</Event><Event ErrorLevel="1" Project="Leyipai.Common" Source="Leyipai.Common\Leyipai.Common.csproj" Description="您的项目以 .NET Framework 2.0 或 3.0 为目标。如果您的项目使用的程序集需要更新的 .NET Framework，则项目生成将失败。通过单击项目菜单上的“属性”，然后在“.NET Framework”下拉框中选择一个新版本，可以更改 .NET Framework 的版本。(在 Visual Basic 中，可在单击“高级编辑器选项...”按钮时显示的“编译”选项卡上找到此下拉框。)">
+</Event><Event ErrorLevel="0" Project="Leyipai.Common" Source="Leyipai.Common\Leyipai.Common.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="Leyipai.Common" Source="Leyipai.Common\Leyipai.Common.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Leyipai.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="Leyipai.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Leyipai.Model" Source="Leyipai.Model\Leyipai.Model.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="Leyipai.DBUtility" Source="Leyipai.DBUtility\Leyipai.DBUtility.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="Leyipai.DAL" Source="Leyipai.DAL\Leyipai.DAL.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="Leyipai.Common" Source="Leyipai.Common\Leyipai.Common.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>

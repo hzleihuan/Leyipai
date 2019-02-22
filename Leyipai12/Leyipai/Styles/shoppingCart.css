@@ -1,0 +1,11 @@
+﻿body {
+}
+.shopping_bag {
+	COLOR: #333333; FONT-SIZE: 12px; VERTICAL-ALIGN: middle
+}
+.shoppinglist {
+	BORDER-BOTTOM: #89c04d 1px solid; BORDER-LEFT: #89c04d 1px solid; BACKGROUND: url(../images/buy_title_bg.gif) repeat-x; BORDER-TOP: #89c04d 1px solid; BORDER-RIGHT: #89c04d 1px solid
+}
+.arrow {
+	BACKGROUND-COLOR: #e4e4e4; FONT-SIZE: 14px
+}

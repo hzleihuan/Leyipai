@@ -1,0 +1,32 @@
+ .icon-user-add {
+	background-image: url("../images/icons/fam/add.gif") !important;
+}
+
+.icon-user-delete {
+	background-image: url("../images/icons/fam/delete.gif") !important;
+}
+
+.icon-user-accept {
+	background-image: url("../images/icons/fam/accept.png") !important;
+}
+.icon-user-save {
+	background-image: url("../images/icons/fam/book.png") !important;
+}
+.icon-user-edit {
+	background-image: url("../images/icons/fam/plugin.gif") !important;
+}
+.icon-user-all {
+	background-image: url("../images/icons/fam/grid.png") !important;
+}
+.icon-user-return {
+	background-image: url("../images/icons/fam/left2.gif") !important;
+}
+.icon-produce-down {
+	background-image: url("../images/icons/arrow-down.gif") !important;
+}
+.icon-user-view{
+	background-image:url("../images/icons/view.png") !important;
+}
+.icon-user-reset{
+	background-image:url("../images/icons/control_repeat_blue.png") !important;
+} 

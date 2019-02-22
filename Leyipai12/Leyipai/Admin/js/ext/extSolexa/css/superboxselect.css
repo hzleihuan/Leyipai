@@ -1,0 +1,69 @@
+.x-superboxselect {
+	PADDING-RIGHT: 2px; DISPLAY: block; PADDING-LEFT: 2px; PADDING-BOTTOM: 2px; MARGIN: 0px; OVERFLOW: hidden; PADDING-TOP: 2px; POSITION: relative; HEIGHT: auto! important; outline: none
+}
+.x-superboxselect UL {
+	OVERFLOW: hidden; CURSOR: text
+}
+.x-superboxselect-display-btns {
+	PADDING-RIGHT: 33px! important
+}
+.x-superboxselect-btns {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 2px; RIGHT: 1px; PADDING-BOTTOM: 2px; OVERFLOW: hidden; PADDING-TOP: 2px; POSITION: absolute; TOP: 0px
+}
+.x-superboxselect-btns DIV {
+	MARGIN-TOP: 4px; FLOAT: left; WIDTH: 16px; HEIGHT: 16px
+}
+.x-superboxselect-btn-clear {
+	BACKGROUND: url(../images/clear.png) no-repeat left 0px
+}
+.x-superboxselect-btn-expand {
+	BACKGROUND: url(../images/expand.png) no-repeat left 0px
+}
+.x-superboxselect-btn-over {
+	BACKGROUND-POSITION: left -16px
+}
+.x-superboxselect-btn-hide {
+	DISPLAY: none
+}
+.x-superboxselect LI {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FLOAT: left; PADDING-BOTTOM: 0px; MARGIN: 1px 1px 2px; PADDING-TOP: 0px
+}
+.x-superboxselect-stacked LI {
+	FLOAT: none! important
+}
+.x-superboxselect-input INPUT {
+	MARGIN-TOP: 4px; MARGIN-BOTTOM: 4px; BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none; outline: none
+}
+BODY.ext-ie .x-superboxselect-input INPUT {
+	MARGIN-TOP: 3px; BACKGROUND: none transparent scroll repeat 0% 0%; BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+.x-superboxselect-item {
+	BORDER-RIGHT: #cad8f3 1px solid; PADDING-RIGHT: 15px! important; BORDER-TOP: #cad8f3 1px solid; PADDING-LEFT: 5px! important; PADDING-BOTTOM: 1px! important; BORDER-LEFT: #cad8f3 1px solid; PADDING-TOP: 1px! important; BORDER-BOTTOM: #cad8f3 1px solid; POSITION: relative; BACKGROUND-COLOR: #dee7f8; -moz-border-radius: 6px; -webkit-border-radius: 6px; border-radius: 6px; o-border-radius: 6px; khtml-border-radius: 6px
+}
+BODY.ext-ie7 .x-superboxselect-item {
+	PADDING-RIGHT: 17px! important; PADDING-LEFT: 5px! important; PADDING-BOTTOM: 4px! important; MARGIN: 2px 1px; LINE-HEIGHT: 1.2em; PADDING-TOP: 2px! important
+}
+BODY.ext-ie6 .x-superboxselect-item {
+	PADDING-RIGHT: 19px! important; PADDING-LEFT: 5px! important; PADDING-BOTTOM: 4px! important; MARGIN: 2px 1px; LINE-HEIGHT: 1.2em; PADDING-TOP: 2px! important
+}
+.x-superboxselect-item-hover {
+	BORDER-RIGHT: #6d95e0 1px solid; BORDER-TOP: #6d95e0 1px solid; BACKGROUND: #bbcef1; BORDER-LEFT: #6d95e0 1px solid; BORDER-BOTTOM: #6d95e0 1px solid
+}
+.x-superboxselect-item-focus {
+	BORDER-LEFT-COLOR: #598bec; BACKGROUND: #598bec; BORDER-BOTTOM-COLOR: #598bec; COLOR: #fff; BORDER-TOP-COLOR: #598bec; BORDER-RIGHT-COLOR: #598bec
+}
+.x-superboxselect-item-close {
+	PADDING-RIGHT: 0px; DISPLAY: block; PADDING-LEFT: 0px; FONT-SIZE: 1px; RIGHT: -1px; BACKGROUND: url(../images/close.png) no-repeat left 0px; PADDING-BOTTOM: 0px; WIDTH: 13px; CURSOR: pointer; BORDER-TOP-STYLE: none; PADDING-TOP: 0px; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; POSITION: absolute; TOP: 2px; HEIGHT: 16px; BORDER-BOTTOM-STYLE: none
+}
+.x-superboxselect-item-close:hover {
+	BACKGROUND-POSITION: left -12px
+}
+.x-superboxselect-item-close:active {
+	BACKGROUND-POSITION: left -12px
+}
+.x-superboxselect-item-focus .x-superboxselect-item-close {
+	BACKGROUND-POSITION: left -24px
+}
+.x-item-disabled .x-superboxselect-item-close {
+	BACKGROUND-POSITION: left -36px
+}

@@ -1,0 +1,60 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="FA1BAA8B-75DE-4134-B0CF-4BC85DBC4ADB/d:accountant/f:AccountantPeriodDAL.cs" caret="0" fromTop="0" />
+      <File id="E2590BF0-F1B8-4A3B-847B-B30002E54324/f:c_area.cs" caret="0" fromTop="0" />
+      <File id="581593E9-CAEF-4AD0-801F-60DB3E661A42/f:Jscript.cs" caret="1676" fromTop="0" />
+      <File id="FA1BAA8B-75DE-4134-B0CF-4BC85DBC4ADB/f:DepotProductsDAL.cs" caret="172" fromTop="8" />
+      <File id="CE560638-9067-4ABD-9FE8-646DA55B2922/d:Admin/d:sys/d:user/f:AddSysUser.ashx" caret="325" fromTop="0" />
+      <File id="CE560638-9067-4ABD-9FE8-646DA55B2922/d:Admin/d:sys/f:SysUser.aspx" caret="865" fromTop="14" />
+      <File id="CE560638-9067-4ABD-9FE8-646DA55B2922/d:Admin/d:accountant/f:AccountantAeriod.aspx" caret="0" fromTop="0" />
+      <File id="CE560638-9067-4ABD-9FE8-646DA55B2922/d:Admin/d:js/d:sys/f:SysUser.js" caret="1701" fromTop="19" />
+      <File id="CE560638-9067-4ABD-9FE8-646DA55B2922/d:Admin/d:sys/d:user/f:GetSysUserByPage.ashx" caret="1168" fromTop="32" />
+      <File id="581593E9-CAEF-4AD0-801F-60DB3E661A42/f:Page.cs" caret="1239" fromTop="74" />
+      <File id="CE560638-9067-4ABD-9FE8-646DA55B2922/f:Product.aspx" caret="1055" fromTop="0" />
+      <File id="CE560638-9067-4ABD-9FE8-646DA55B2922/f:ShoppingCart.aspx" caret="5864" fromTop="13" />
+      <File id="CE560638-9067-4ABD-9FE8-646DA55B2922/f:ShoppingCart.aspx.cs" caret="4440" fromTop="120" />
+      <File id="CE560638-9067-4ABD-9FE8-646DA55B2922/d:include/f:GetValidate.aspx.cs" caret="425" fromTop="0" />
+      <File id="CE560638-9067-4ABD-9FE8-646DA55B2922/d:include/f:GetValidate.aspx" caret="0" fromTop="0" />
+      <File id="CE560638-9067-4ABD-9FE8-646DA55B2922/d:Control/f:footer.ascx.cs" caret="0" fromTop="0" />
+      <File id="CE560638-9067-4ABD-9FE8-646DA55B2922/d:Control/f:top.ascx.cs" caret="0" fromTop="0" />
+      <File id="CE560638-9067-4ABD-9FE8-646DA55B2922/f:index.aspx.cs" caret="0" fromTop="0" />
+      <File id="CE560638-9067-4ABD-9FE8-646DA55B2922/f:index.aspx" caret="0" fromTop="0" />
+      <File id="CE560638-9067-4ABD-9FE8-646DA55B2922/d:Control/f:top.ascx" caret="647" fromTop="16" />
+      <File id="CE560638-9067-4ABD-9FE8-646DA55B2922/d:Control/f:footer.ascx" caret="0" fromTop="0" />
+      <File id="CE560638-9067-4ABD-9FE8-646DA55B2922/f:Login.aspx" caret="909" fromTop="17" />
+      <File id="CE560638-9067-4ABD-9FE8-646DA55B2922/f:Login.aspx.cs" caret="0" fromTop="0" />
+      <File id="CE560638-9067-4ABD-9FE8-646DA55B2922/d:Admin/f:Login.aspx" caret="0" fromTop="0" />
+      <File id="CE560638-9067-4ABD-9FE8-646DA55B2922/d:Admin/f:Login.aspx.cs" caret="517" fromTop="0" />
+      <File id="CE560638-9067-4ABD-9FE8-646DA55B2922/d:Admin/f:Index.aspx" caret="0" fromTop="0" />
+      <File id="CE560638-9067-4ABD-9FE8-646DA55B2922/d:Admin/f:Index_Left_Menu.aspx.cs" caret="514" fromTop="20" />
+      <File id="CE560638-9067-4ABD-9FE8-646DA55B2922/d:Admin/f:Index_Left_Menu.aspx" caret="3594" fromTop="74" />
+      <File id="CE560638-9067-4ABD-9FE8-646DA55B2922/f:Web.Config" caret="1023" fromTop="30" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="CE560638-9067-4ABD-9FE8-646DA55B2922/f:Web.Config" caret="364" fromTop="11" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <UnitTestRunnerQUnit>
+    <BrowserLocation IsNull="False">
+    </BrowserLocation>
+  </UnitTestRunnerQUnit>
+</Configuration>

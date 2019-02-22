@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\leyipai12\Leyipai.DBUtility\bin\Debug\Leyipai.DBUtility.dll
+C:\Users\Administrator\Desktop\leyipai12\Leyipai.DBUtility\bin\Debug\Leyipai.DBUtility.pdb
+C:\Users\Administrator\Desktop\leyipai12\Leyipai.DBUtility\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\leyipai12\Leyipai.DBUtility\obj\Debug\Leyipai.DBUtility.dll
+C:\Users\Administrator\Desktop\leyipai12\Leyipai.DBUtility\obj\Debug\Leyipai.DBUtility.pdb

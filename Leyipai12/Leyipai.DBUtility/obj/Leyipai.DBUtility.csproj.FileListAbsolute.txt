@@ -1,0 +1,15 @@
+F:\VS\Leyipai\Leyipai.DBUtility\obj\Debug\ResolveAssemblyReference.cache
+F:\VS\Leyipai\Leyipai.DBUtility\bin\Debug\Leyipai.DBUtility.dll
+F:\VS\Leyipai\Leyipai.DBUtility\bin\Debug\Leyipai.DBUtility.pdb
+F:\VS\Leyipai\Leyipai.DBUtility\obj\Debug\Leyipai.DBUtility.dll
+F:\VS\Leyipai\Leyipai.DBUtility\obj\Debug\Leyipai.DBUtility.pdb
+F:\test\test\Leyipai\Leyipai.DBUtility\bin\Debug\Leyipai.DBUtility.dll
+F:\test\test\Leyipai\Leyipai.DBUtility\bin\Debug\Leyipai.DBUtility.pdb
+F:\test\test\Leyipai\Leyipai.DBUtility\obj\Debug\ResolveAssemblyReference.cache
+F:\test\test\Leyipai\Leyipai.DBUtility\obj\Debug\Leyipai.DBUtility.dll
+F:\test\test\Leyipai\Leyipai.DBUtility\obj\Debug\Leyipai.DBUtility.pdb
+E:\项目\未分类\Leyipai-1.2\Leyipai.DBUtility\bin\Debug\Leyipai.DBUtility.dll
+E:\项目\未分类\Leyipai-1.2\Leyipai.DBUtility\bin\Debug\Leyipai.DBUtility.pdb
+E:\项目\未分类\Leyipai-1.2\Leyipai.DBUtility\obj\Debug\ResolveAssemblyReference.cache
+E:\项目\未分类\Leyipai-1.2\Leyipai.DBUtility\obj\Debug\Leyipai.DBUtility.dll
+E:\项目\未分类\Leyipai-1.2\Leyipai.DBUtility\obj\Debug\Leyipai.DBUtility.pdb

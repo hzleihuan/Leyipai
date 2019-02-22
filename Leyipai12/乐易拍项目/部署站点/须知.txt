@@ -1,0 +1,11 @@
+本手册是在WIN7 下部署站点图
+
+1.在您的电脑上安装好IIS7.
+
+2.安装好.net2.0.  (http://www.onlinedown.net/Soft/38669.htm)
+
+3.将 leyipai 目录拷贝到 C:\inetpub\wwwroot 下。
+
+4.确保 Web.Config 中的“  <add key="ConnectionString" value="server=127.0.0.1;database=leyipai;uid=sa;pwd=sa" />”是连接到您设置的数据库。
+
+5.再进入“控制面板”设置站点。如图

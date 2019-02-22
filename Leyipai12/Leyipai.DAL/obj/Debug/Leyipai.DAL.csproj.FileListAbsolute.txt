@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\leyipai12\Leyipai.DAL\bin\Debug\Leyipai.DAL.dll
+C:\Users\Administrator\Desktop\leyipai12\Leyipai.DAL\bin\Debug\Leyipai.DAL.pdb
+C:\Users\Administrator\Desktop\leyipai12\Leyipai.DAL\bin\Debug\Leyipai.Common.dll
+C:\Users\Administrator\Desktop\leyipai12\Leyipai.DAL\bin\Debug\Leyipai.DBUtility.dll
+C:\Users\Administrator\Desktop\leyipai12\Leyipai.DAL\bin\Debug\Leyipai.Model.dll
+C:\Users\Administrator\Desktop\leyipai12\Leyipai.DAL\bin\Debug\Leyipai.Common.pdb
+C:\Users\Administrator\Desktop\leyipai12\Leyipai.DAL\bin\Debug\Leyipai.DBUtility.pdb
+C:\Users\Administrator\Desktop\leyipai12\Leyipai.DAL\bin\Debug\Leyipai.Model.pdb
+C:\Users\Administrator\Desktop\leyipai12\Leyipai.DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\leyipai12\Leyipai.DAL\obj\Debug\Leyipai.DAL.dll
+C:\Users\Administrator\Desktop\leyipai12\Leyipai.DAL\obj\Debug\Leyipai.DAL.pdb

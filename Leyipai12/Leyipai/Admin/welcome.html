@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+      <link rel="stylesheet" type="text/css" media="all" href="js/ext/resources/css/ext-all.css" />
+	<script type="text/javascript" src="js/ext/adapter/ext/ext-base.js"></script>
+	<script type="text/javascript" src="js/ext/ext-all.js"></script>	
+	<script type="text/javascript" src="js/ext/ext-lang-zh_CN.js"></script>
+    <link rel="stylesheet" type="text/css" media="all" href="css/ext-common.css" />
+    <script type="text/javascript" language="javascript">
+        Ext.onReady(function () {
+            var tabs = new Ext.TabPanel({
+                renderTo: 'tabs1',
+                width: 800,
+                activeTab: 0,
+                frame: true,
+                defaults: { autoHeight: true },
+                items: [
+            { contentEl: 'resetPw', title: '欢迎使用' },
+            { contentEl: 'test1', title: '技术帮助' }
+        ]
+            });
+
+
+           
+
+
+        });
+    
+    </script>
+</head>
+<body>
+ <div id="tabs1"  style="margin-left:50px; margin-top:20px; width:80%;">
+        <div id="resetPw" style="margin-left:10px; margin-top:10px;height:200px" >
+           
+           
+              </div>
+        <div id="test1" class="x-hide-display">
+           test        </div>
+    </div>
+</body>
+</html>

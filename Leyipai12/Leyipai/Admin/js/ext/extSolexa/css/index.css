@@ -1,0 +1,168 @@
+/* tree checkbox, height/width needed b/c of IE spacing weirdly, breaks lines */
+input.l-tcb {
+	height:13px;
+	width:13px;
+	margin-left:2px
+}
+
+
+/* fix scrolling issue with treeobj in a contentpanel 
+ * and loss of icons when a node is expanded
+*/
+.ext-ie .x-tree {
+	position:static !important;
+}
+
+a {
+	color: #15428B;
+}
+
+a:link,a:visited {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+#header h1 {
+	font-size: 36px;
+	font-weight: bold;
+	color: #fff;
+	padding: 5px 10px;
+}
+
+.start-bg {
+	background-image: url(../images/bg.jpg);
+}
+
+.icon-nav {
+	background-image: url(../images/folder_go.png) !important;
+}
+
+.icon-settings {
+	background-image: url(../images/folder_wrench.png) !important;
+}
+
+.icon-toFridge {
+	background-image: url(../images/icons/upload_local.png) !important;
+}
+
+.icon-lock {
+	background-image: url(../images/lock.gif) !important;
+}
+
+.icon-unlock {
+	background-image: url(../images/unlock.gif) !important;
+}
+
+.icon-upload{
+	background-image: url(../images/upload.gif) !important;
+}
+
+.icon-save{
+	background-image: url(../images/save.jpg) !important;
+}
+
+.icon-add {
+	background-image: url(../images/add.gif) !important;
+}
+
+.icon-form {
+	background-image: url(../images/form.png) !important;
+}
+
+.icon-edit {
+	background-image: url(../images/edit.gif) !important;
+}
+
+.icon-del {
+	background-image: url(../images/del.gif) !important;
+}
+
+.icon-reset {
+	background-image: url(../images/reset.gif) !important;
+}
+.icon-employe{
+	background-image: url(../images/employe_reset.gif) !important;
+}
+.icon-del_red {
+	background-image: url(../images/del_red.png) !important;
+}
+
+.icon-del-gray {
+	background-image: url(../images/del_gray.gif) !important;
+}
+
+.icon-search {
+	background-image: url(../images/search.gif) !important;
+}
+
+.icon-excel {
+	background-image: url(../images/excel.gif) !important;
+}
+
+.icon-grid {
+	background-image: url(../images/grid.gif) !important;
+}
+
+.icon-plugin {
+	background-image: url(../images/plugin.gif) !important;
+}
+
+.icon-delete {
+	background-image: url(../images/delete.gif) !important;
+}
+
+.icon-info {
+	background-image: url(../images/info.gif) !important;
+}
+
+.icon-tabs {
+	background-image: url(../images/tabs.gif) !important;
+}
+
+.icon-print {
+	background-image: url(../images/print.gif) !important;
+}
+
+.upload-icon {
+	background: url('image_add.png') no-repeat 0 0 !important;
+}
+
+/*-----------*/
+.x-grid3-row-body p {
+	margin: 5px 5px 10px 5px !important;
+}
+
+body,td,th {
+	font-family:
+		'Geneva, Arial, Helvetica, sans-serif,lucida grande, tahoma, arial, sans-serif'
+		;
+	font-size: 12px;
+}
+
+.allow-float {clear:none!important;} /* 允许该元素浮动 */  
+.stop-float {clear:both!important;} /* 阻止该元素浮动 */  
+.left-float {float:left;padding:0 0 0 0px;margin:0 0 4 0px;}  
+.common-field {float:left;padding:0 0 0 58px;*padding:0 0 0 50px!important;*padding:0 0 0 50px;}  
+.check {bgcolor:'#999999'}
+.red-row{ background-color: #F5C0C0 !important; } 
+.yellow-row{ background-color: #FBF8BF !important; } 
+.green-row{ background-color: #99CC99 !important; }
+.multiselect .x-form-check-wrap{margin-left:5px;color:#000;}
+
+
+ .ux-lovcombo-icon {  
+     width:16px;  
+     height:16px;  
+     float:left;  
+     background-position: -1px -1px ! important;  
+     background-repeat:no-repeat ! important;  
+ }  
+ .ux-lovcombo-icon-checked {  
+     background: transparent url(../resources/images/default/menu/checked.gif);  
+ }  
+ .ux-lovcombo-icon-unchecked {  
+     background: transparent url(../resources/images/default/menu/unchecked.gif);  
+ }  

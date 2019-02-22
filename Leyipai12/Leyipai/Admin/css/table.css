@@ -1,0 +1,23 @@
+﻿.table_01 caption{ font-size:14px; font-weight:bold; text-align:left; padding:5px 1px 1px 5px;}
+.table_01{border-collapse:collapse;empty-cells:show; border:1px #b8d1e2 solid; background-color:White; }
+.table_01 thead tr{height:28px; line-height:28px; background:url(../../../AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/images/menu/bars.gif) repeat-x 0px -140px;font-weight:bold;white-space:nowrap;}
+.table_01 th{text-align:center;
+			  border-bottom:1px #b8d1e2 solid;
+			  border-right:1px #b8d1e2 solid; 
+			  white-space: nowrap;
+			   }
+			   
+.table_01 tr td{
+                 text-align:left;
+				 overflow:hidden;
+				 padding:5px; 
+				 border-top:1px #E4ECF3 solid;
+				 border-left:1px #E4ECF3 solid;
+				 white-space: nowrap;
+				 }
+
+.table_01 .tr1{ 
+				 background-color:#F6F6F6;
+
+				 }
+				 .lblTip{ display:block; color:Red; font-size:14px; font-weight:bold;}

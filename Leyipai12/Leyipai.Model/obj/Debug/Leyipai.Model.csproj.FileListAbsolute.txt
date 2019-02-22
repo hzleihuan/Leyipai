@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\leyipai12\Leyipai.Model\bin\Debug\Leyipai.Model.dll
+C:\Users\Administrator\Desktop\leyipai12\Leyipai.Model\bin\Debug\Leyipai.Model.pdb
+C:\Users\Administrator\Desktop\leyipai12\Leyipai.Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\leyipai12\Leyipai.Model\obj\Debug\Leyipai.Model.dll
+C:\Users\Administrator\Desktop\leyipai12\Leyipai.Model\obj\Debug\Leyipai.Model.pdb

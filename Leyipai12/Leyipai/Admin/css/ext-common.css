@@ -1,0 +1,35 @@
+﻿.icon-add {
+    background:url("../images/backstage/add.png") no-repeat !important;
+}
+
+.icon-save {
+    background:url("../images/backstage/save.png") no-repeat !important;
+}
+
+.icon-edit {
+    background:url("../images/backstage/edit.png") no-repeat !important;
+}
+
+.icon-del {
+    background:url("../images/backstage/delete.png") no-repeat !important;
+}
+
+.icon-tools {
+    background:url("../images/backstage/tools.jpg") no-repeat !important;
+}
+
+.icon_search {
+	background:url("../images/backstage/search.png") no-repeat 1px 2px !important;
+	}
+
+.icon-search {
+	background:url("../images/backstage/search.png") no-repeat 1px 2px !important;
+}
+	
+.icon_reset {
+	background:url("../images/backstage/reset.png") no-repeat 1px 2px !important;
+	}
+.icon_chart {
+	background:url("../images/backstage/chart.png") no-repeat 1px 2px !important;
+	}
+

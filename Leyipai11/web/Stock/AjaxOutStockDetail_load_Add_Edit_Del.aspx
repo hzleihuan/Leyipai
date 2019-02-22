@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="AjaxOutStockDetail_load_Add_Edit_Del.aspx.cs" Inherits="Stock_AjaxOutStockDetail_load_Add_Edit_Del" %>

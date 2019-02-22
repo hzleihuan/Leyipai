@@ -1,0 +1,15 @@
+F:\VS\Leyipai\Leyipai.Model\obj\Debug\ResolveAssemblyReference.cache
+F:\VS\Leyipai\Leyipai.Model\bin\Debug\Leyipai.Model.dll
+F:\VS\Leyipai\Leyipai.Model\bin\Debug\Leyipai.Model.pdb
+F:\VS\Leyipai\Leyipai.Model\obj\Debug\Leyipai.Model.dll
+F:\VS\Leyipai\Leyipai.Model\obj\Debug\Leyipai.Model.pdb
+F:\test\test\Leyipai\Leyipai.Model\bin\Debug\Leyipai.Model.dll
+F:\test\test\Leyipai\Leyipai.Model\bin\Debug\Leyipai.Model.pdb
+F:\test\test\Leyipai\Leyipai.Model\obj\Debug\ResolveAssemblyReference.cache
+F:\test\test\Leyipai\Leyipai.Model\obj\Debug\Leyipai.Model.dll
+F:\test\test\Leyipai\Leyipai.Model\obj\Debug\Leyipai.Model.pdb
+E:\项目\未分类\Leyipai-1.2\Leyipai.Model\bin\Debug\Leyipai.Model.dll
+E:\项目\未分类\Leyipai-1.2\Leyipai.Model\bin\Debug\Leyipai.Model.pdb
+E:\项目\未分类\Leyipai-1.2\Leyipai.Model\obj\Debug\ResolveAssemblyReference.cache
+E:\项目\未分类\Leyipai-1.2\Leyipai.Model\obj\Debug\Leyipai.Model.dll
+E:\项目\未分类\Leyipai-1.2\Leyipai.Model\obj\Debug\Leyipai.Model.pdb
